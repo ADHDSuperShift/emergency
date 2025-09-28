@@ -89,7 +89,7 @@ const AppLayout = () => {
         <div className="max-w-4xl mx-auto px-4 py-4">
           <div className="flex items-center gap-3">
             <img 
-              src="/sdb.jpg" 
+              src="sdb.jpg" 
               alt="SDB logo" 
               className="w-20 h-20 rounded-full object-cover"
             />
@@ -110,7 +110,7 @@ const AppLayout = () => {
         <div className="bg-white rounded-lg p-3 sm:p-6 mb-6 shadow-sm">
           <div className="rounded-lg overflow-hidden bg-muted border border-border">
             <img
-              src="/ChatGPT Image Sep 28, 2025, 04_49_00 PM.png"
+              src="ChatGPT Image Sep 28, 2025, 04_49_00 PM.png"
               alt="Emergency services illustration"
               className="w-full h-72 sm:h-96 lg:h-[32rem] object-cover"
             />

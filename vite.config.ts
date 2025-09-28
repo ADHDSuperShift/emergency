@@ -16,4 +16,6 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  // Ensure correct asset paths when deployed to GitHub Pages at /emergency
+  base: process.env.VITE_BASE || '/emergency/',
 }));
