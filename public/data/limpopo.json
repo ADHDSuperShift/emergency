@@ -1,0 +1,77 @@
+{
+  "province": "Limpopo",
+  "towns": {
+    "Polokwane": [
+      {
+        "category": "Police",
+        "name": "Polokwane SAPS",
+        "phone": "015-290-8000",
+        "address": "Cnr Grobler & Schoeman St, Polokwane"
+      },
+      {
+        "category": "Fire",
+        "name": "Polokwane Fire Department",
+        "phone": "015-290-2333",
+        "address": "Municipal Building, Polokwane"
+      },
+      {
+        "category": "Ambulance",
+        "name": "ER24 Polokwane",
+        "phone": "084-124-7000",
+        "address": "Polokwane Central"
+      },
+      {
+        "category": "Hospital",
+        "name": "Pietersburg Hospital",
+        "phone": "015-287-5000",
+        "address": "Hospital Street, Polokwane"
+      }
+    ],
+    "Tzaneen": [
+      {
+        "category": "Police",
+        "name": "Tzaneen SAPS",
+        "phone": "015-307-8500",
+        "address": "Agatha Street, Tzaneen"
+      },
+      {
+        "category": "Fire",
+        "name": "Tzaneen Fire Station",
+        "phone": "015-307-8911",
+        "address": "Municipal Offices, Tzaneen"
+      },
+      {
+        "category": "Ambulance",
+        "name": "Netcare 911",
+        "phone": "082-911-0000",
+        "address": "Tzaneen Area"
+      },
+      {
+        "category": "Hospital",
+        "name": "Letaba Hospital",
+        "phone": "015-307-6800",
+        "address": "Tzaneen Central"
+      }
+    ],
+    "Thohoyandou": [
+      {
+        "category": "Police",
+        "name": "Thohoyandou SAPS",
+        "phone": "015-962-2000",
+        "address": "Thohoyandou CBD"
+      },
+      {
+        "category": "Fire",
+        "name": "Vhembe Fire Services",
+        "phone": "015-962-8911",
+        "address": "Thohoyandou Municipal"
+      },
+      {
+        "category": "Hospital",
+        "name": "Tshilidzini Hospital",
+        "phone": "015-962-9000",
+        "address": "Thohoyandou"
+      }
+    ]
+  }
+}

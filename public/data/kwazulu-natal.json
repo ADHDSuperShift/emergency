@@ -1,0 +1,65 @@
+{
+  "province": "KwaZulu-Natal",
+  "towns": {
+    "Durban": [
+      {
+        "category": "Police",
+        "name": "Durban Central SAPS",
+        "phone": "031-325-6000",
+        "address": "Smith Street, Durban"
+      },
+      {
+        "category": "Fire",
+        "name": "eThekwini Fire Department",
+        "phone": "031-311-1166",
+        "address": "Durban Metro"
+      },
+      {
+        "category": "Ambulance",
+        "name": "KZN EMS",
+        "phone": "031-240-2000",
+        "address": "Durban Area"
+      },
+      {
+        "category": "Hospital",
+        "name": "Addington Hospital",
+        "phone": "031-327-2000",
+        "address": "Durban South"
+      }
+    ],
+    "Pietermaritzburg": [
+      {
+        "category": "Police",
+        "name": "Pietermaritzburg SAPS",
+        "phone": "033-392-8000",
+        "address": "Church Street, PMB"
+      },
+      {
+        "category": "Fire",
+        "name": "Msunduzi Fire Services",
+        "phone": "033-392-3000",
+        "address": "Pietermaritzburg"
+      },
+      {
+        "category": "Hospital",
+        "name": "Grey's Hospital",
+        "phone": "033-897-3000",
+        "address": "Pietermaritzburg"
+      }
+    ],
+    "Newcastle": [
+      {
+        "category": "Police",
+        "name": "Newcastle SAPS",
+        "phone": "034-328-7500",
+        "address": "Scott Street, Newcastle"
+      },
+      {
+        "category": "Hospital",
+        "name": "Newcastle Hospital",
+        "phone": "034-328-6000",
+        "address": "Newcastle"
+      }
+    ]
+  }
+}

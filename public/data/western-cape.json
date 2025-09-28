@@ -1,0 +1,71 @@
+{
+  "province": "Western Cape",
+  "towns": {
+    "Cape Town": [
+      {
+        "category": "Police",
+        "name": "Cape Town Central SAPS",
+        "phone": "021-467-9000",
+        "address": "Caledon Square, Cape Town"
+      },
+      {
+        "category": "Fire",
+        "name": "City of Cape Town Fire",
+        "phone": "021-480-7700",
+        "address": "Cape Town Metro"
+      },
+      {
+        "category": "Ambulance",
+        "name": "Western Cape EMS",
+        "phone": "021-480-7700",
+        "address": "Cape Town Area"
+      },
+      {
+        "category": "Hospital",
+        "name": "Groote Schuur Hospital",
+        "phone": "021-404-9111",
+        "address": "Observatory, Cape Town"
+      }
+    ],
+    "Stellenbosch": [
+      {
+        "category": "Police",
+        "name": "Stellenbosch SAPS",
+        "phone": "021-809-5000",
+        "address": "Dorp Street, Stellenbosch"
+      },
+      {
+        "category": "Fire",
+        "name": "Stellenbosch Fire Services",
+        "phone": "021-808-8911",
+        "address": "Stellenbosch Municipality"
+      },
+      {
+        "category": "Hospital",
+        "name": "Stellenbosch Hospital",
+        "phone": "021-938-9000",
+        "address": "Stellenbosch"
+      }
+    ],
+    "George": [
+      {
+        "category": "Police",
+        "name": "George SAPS",
+        "phone": "044-803-4500",
+        "address": "York Street, George"
+      },
+      {
+        "category": "Fire",
+        "name": "George Fire Department",
+        "phone": "044-801-9111",
+        "address": "George Municipality"
+      },
+      {
+        "category": "Hospital",
+        "name": "George Hospital",
+        "phone": "044-802-2111",
+        "address": "George"
+      }
+    ]
+  }
+}

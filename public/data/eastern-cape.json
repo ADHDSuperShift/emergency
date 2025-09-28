@@ -1,0 +1,65 @@
+{
+  "province": "Eastern Cape",
+  "towns": {
+    "Port Elizabeth": [
+      {
+        "category": "Police",
+        "name": "Port Elizabeth Central SAPS",
+        "phone": "041-503-3000",
+        "address": "Strand Street, Port Elizabeth"
+      },
+      {
+        "category": "Fire",
+        "name": "Nelson Mandela Bay Fire",
+        "phone": "041-506-2000",
+        "address": "Port Elizabeth Metro"
+      },
+      {
+        "category": "Ambulance",
+        "name": "Provincial EMS",
+        "phone": "041-408-2911",
+        "address": "Port Elizabeth Area"
+      },
+      {
+        "category": "Hospital",
+        "name": "Livingstone Hospital",
+        "phone": "041-405-2911",
+        "address": "Port Elizabeth"
+      }
+    ],
+    "East London": [
+      {
+        "category": "Police",
+        "name": "East London SAPS",
+        "phone": "043-704-3000",
+        "address": "Oxford Street, East London"
+      },
+      {
+        "category": "Fire",
+        "name": "Buffalo City Fire",
+        "phone": "043-705-2000",
+        "address": "East London Metro"
+      },
+      {
+        "category": "Hospital",
+        "name": "Frere Hospital",
+        "phone": "043-709-2000",
+        "address": "East London"
+      }
+    ],
+    "Grahamstown": [
+      {
+        "category": "Police",
+        "name": "Grahamstown SAPS",
+        "phone": "046-603-9000",
+        "address": "High Street, Grahamstown"
+      },
+      {
+        "category": "Hospital",
+        "name": "Settlers Hospital",
+        "phone": "046-602-5000",
+        "address": "Grahamstown"
+      }
+    ]
+  }
+}
